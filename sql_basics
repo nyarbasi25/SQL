@@ -1,1 +1,14 @@
+#Welcome to SQL basics
+
+# SQL stands for Structured Query Language and lets you access and manipulate databases. 
+# When you ask a database what you specifically want, the database will return you an answer often as a table. 
+# The download of te SQL can be done by following the link below
+  https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
+  
+# SQL Commands
+SQL is classified in 4 structural groups:
+1. DDL (Data Definition Language) 
+2. DML (Data Manipulation Language)
+3. DCL (Data Control Language)
+4. TCL (Transaction Control Language)
 
